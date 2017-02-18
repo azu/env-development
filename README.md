@@ -1,4 +1,4 @@
-# env-development
+# env-development [![Build Status](https://travis-ci.org/azu/env-development.svg?branch=master)](https://travis-ci.org/azu/env-development)
 
 Set $NODE_ENV to "development".
 
