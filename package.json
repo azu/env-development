@@ -1,0 +1,30 @@
+{
+  "directories": {
+    "test": "test"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "files": [
+    "lib/"
+  ],
+  "name": "env-development",
+  "version": "1.0.0",
+  "description": "Set $NODE_ENV to \"development\" works best with mocha --require=env-development ",
+  "main": "lib/env-development.js",
+  "scripts": {
+    "test": "node test/index-test.js"
+  },
+  "keywords": [
+    "node.js",
+    "mocha",
+    "env"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/env-development.git"
+  },
+  "bugs": {
+    "url": "https://github.com/azu/env-development/issues"
+  },
+  "homepage": "https://github.com/azu/env-development"
+}
