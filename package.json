@@ -10,7 +10,7 @@
   "name": "env-development",
   "version": "1.0.0",
   "description": "Set $NODE_ENV to \"development\" works best with mocha --require=env-development ",
-  "main": "lib/env-development.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "node test/index-test.js"
   },
