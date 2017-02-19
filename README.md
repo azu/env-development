@@ -2,7 +2,7 @@
 
 Set $NODE_ENV to "development".
 
-Works best with `mocha --requireenv-development`.
+Works best with `mocha --require env-development`.
 
 ## Why?
 
